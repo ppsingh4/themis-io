@@ -1,0 +1,8 @@
+site_name: Themis
+theme: material
+nav:
+  - Introduction: index.md
+  - Getting Started:
+    - Local Setup: getting_started/local_setup.md
+    - Quick Start:
+      - Permit All: getting_started/quick_start/permit_all.md

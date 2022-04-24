@@ -6,3 +6,9 @@ nav:
     - Local Setup: getting_started/local_setup.md
     - Quick Start:
       - Permit All: getting_started/quick_start/permit_all.md
+  - Policy File: policy_file/policy_file.md
+  - Algorithms: algorithms/algo.md
+  - Components:
+    - PDP: components/pdp.md
+    - PIP: components/pip.md
+    - pap: components/pap.md

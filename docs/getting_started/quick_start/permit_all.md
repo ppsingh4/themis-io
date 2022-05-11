@@ -19,6 +19,6 @@ You can in above command that we have passed policy file by using -p
 
 
 ```
-pepcli -i examples/01-intro/all-permit.requests.yaml test
+./pepcli -i ../examples/01-intro/all-permit.requests.yaml test
 ```
 
